@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "elasticsearch",
+      "type": "com.leyou.starter.elastic.config.ElasticProperties",
+      "sourceType": "com.leyou.starter.elastic.config.ElasticProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "elasticsearch.hosts",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.leyou.starter.elastic.config.ElasticProperties"
+    }
+  ],
+  "hints": []
+}
